@@ -26,9 +26,9 @@ Test was performed in android environment using espresso, charles proxy, eclipse
 
 8) Visit the given NBC app page and click on the jimmy fallon video as per the requirement
 
-9) Video starts and we can see httpp/https mesage data on charles proxy.
+9) Video starts and we can see httpp/https mesage data generated on charles proxy.
 
-10) Through the coding IDE, create methods for Event Listening to intercept the event type and a method to assert the value of obtained event type from the Heartbeat Ping.
+10) Through the IDE, create methods for event listening to intercept the event type and also create a method to assert the value of obtained event type from the Heartbeat Ping. Specify a malformed exception wherever needed inorder to enable basic exception handling.
 
 11) If the required event type or value is present, set assertion value to be true else assert false.
 
